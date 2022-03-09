@@ -2,7 +2,7 @@
   "metaTitle": "Miguel Nunes",
   "metaDescription": "",
   "name": "Miguel Nunes",
-  "theme": "menu",
+  "theme": "glitch",
   "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
   "links": [
     {
@@ -40,12 +40,12 @@
     "youtube": "https://www.youtube.com/c/UCdhcqZ3-QnMEncaSN_iY3iA",
     "twitch": "",
     "tiktok": "",
-    "podcast": "",
+    "podcast": "https://anchor.fm/miguelnunes",
     "soundcloud": "",
     "bandcamp": "",
     "mastodon": "",
     "stackoverflow": "",
-    "kofi": "",
+    "kofi": "https://ko-fi.com/miguelnunesmcn",
     "email": "miguelcamisanunes@gmail.com"
   }
 }
