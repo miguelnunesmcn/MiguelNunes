@@ -8,7 +8,7 @@
     {
       "url": "https://instagram.com/miguelnunesmcn",
       "text": "Instagram",
-      "img": ""
+      "img": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/2048px-Instagram_icon.png?v=1647018470114"
     },
     {
       "url": "https://twitter.com/miguelnunesmcn",
@@ -18,11 +18,11 @@
     {
       "url": "https://www.glitch.com/@miguelnunesmcn",
       "text": "Built by and on Glitch, the easiest way to build the web.",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "img": ""
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "https://glitch.com/@miguelnunesmcn",
     "spotify": "https://open.spotify.com/user/p6vyqn1g13lpzlcos7655fym7?si=8cJO5Q_RQliOF9_psKjw9g&utm_source=copy-link",
     "substack": "",
     "dev": "https://dev.to/miguelnunesmcn",
@@ -30,7 +30,7 @@
     "github": "https://github.com/miguelnunesmcn",
     "gitlab": "",
     "hashnode": "",
-    "blogger" : "https://mcn-museum.blogger.com",
+    "blogger": "https://mcn-museum.blogger.com",
     "instagram": "https://instagram.com/miguelnunesmcn",
     "linkedin": "https://www.linkedin.com/company/fog-creek-software",
     "medium": "https://miguelnunesmcn.medium.com",
