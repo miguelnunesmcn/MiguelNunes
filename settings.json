@@ -2,7 +2,7 @@
   "metaTitle": "Miguel Nunes",
   "metaDescription": "Uma Pessoa Fixe",
   "name": "Miguel Nunes",
-  "theme": "glitch",
+  "theme": "gallery",
   "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
   "links": [
     {
@@ -16,8 +16,8 @@
       "img": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/Twitter%20Logo.png?v=1647018129978"
     },
     {
-      "url": "https://www.glitch.com/@miguelnunesmcn",
-      "text": "",
+      "url": "https://discord.gg/chGC9yDTXN",
+      "text": "Discord",
       "img": ""
     }
   ],
