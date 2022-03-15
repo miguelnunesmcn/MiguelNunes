@@ -249,7 +249,7 @@ ul.link-list li a span {
 }
 /* Image paths specified in layout/social.html */
 .social-profile-icon path {
-  fill: var(--color-bg-alt);
+  fill: #FFFFFF;
 }
 .social-profile-icon:hover path, .social-profile-icon:focus path {
   fill: var(--color-text-main);
