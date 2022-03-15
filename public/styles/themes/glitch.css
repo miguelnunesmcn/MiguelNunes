@@ -24,12 +24,17 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
   --color-text-main: #000000;
   --color-primary: #AFECE0;
   --theme-color-title: #FFFFFF;
+  --color-: #FFFFFF;
   --font-family: "HK Grotesk";
   --font-family-header: "HK Grotesk";
   --font-family-list: Menlo, Consolas, Monaco, "Lucida Console", monospace;
 }
 body {
   background: fixed linear-gradient(0deg, #D7F5EF, #9480FF);
+}
+
+p {
+  color: #ffffff;
 }
 
 ul.link-list li a {
@@ -49,7 +54,7 @@ ul.link-list li a img {
   display: none;
 }
 
-.social-profile-icon path {
+.social-profile-icon path: {
   fill: var(--color-bg);
 }
 h1 {
