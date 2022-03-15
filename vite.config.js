@@ -9,25 +9,25 @@ export default defineConfig(async ({ command, mode }) => {
     plugins: [
       handlebars({
         partialDirectory: resolve(__dirname, "layout"),
-        settingsFile: 'settings.json',
+        settingsFile: "settings.json",
         helpers: {
-          hostasclass: value => new URL(value).hostname.replace(/\./g, "_")
+          hostasclass: (value) => new URL(value).hostname.replace(/\./g, "_"),
         },
-        reloadOnPartialChange: true
-      })
+        reloadOnPartialChange: true,
+      }),
     ],
     build: {
       cssCodeSplit: false,
-      outDir: "build"
+      outDir: "build",
     },
     optimizeDeps: {
-      exclude: ['./settings.json']
+      exclude: ["./settings.json"],
     },
     server: {
       strictPort: true,
       hmr: {
-        port: 443
-      }
-    }
+        port: 443,
+      },
+    },
   };
 });

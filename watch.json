@@ -1,20 +1,11 @@
 {
   "install": {
-    "include": [
-      "^package\\.json$"
-    ],
+    "include": ["^package\\.json$"],
     "exclude": []
   },
   "restart": {
-    "include": [
-      "^\\.env$",
-      "^backend/"
-    ],
-    "exclude": [
-      "public/",
-      "vite.config.js",
-      "settings.json"
-    ]
+    "include": ["^\\.env$", "^backend/"],
+    "exclude": ["public/", "vite.config.js", "settings.json"]
   },
   "noSavedEvents": true
 }

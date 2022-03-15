@@ -31,7 +31,7 @@
   "glitch": {
     "projectType": "generated_static"
   },
-  "author": "Keith Kurson <keith@glitch.com>",
+  "author": "Miguel Nunes <miguelcamisanunes@gmail.com>",
   "auto": {
     "plugins": [
       "all-contributors",
