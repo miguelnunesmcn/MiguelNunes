@@ -31,7 +31,7 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
 }
 body {
   background: fixed linear-gradient(0deg, #d7f5ef, #9480ff);
-  color: #ffffff;
+  color: #000000;
 }
 
 ul.link-list li a {
@@ -60,5 +60,9 @@ ul.link-list li a img {
   fill: var(--color-bg);
 }
 h1 {
+  color: var(--theme-color-title);
+}
+
+p {
   color: var(--theme-color-title);
 }
