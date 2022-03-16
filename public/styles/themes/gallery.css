@@ -9,13 +9,13 @@ Select your chosen CSS by adding the theme name (e.g. gallery) in settings.json
 
 :root {
   --avatar-max-width: 50px;
-  --color-bg: #FFFFFF;
-  --color-bg-alt: #D7F5EF;
+  --color-bg: #ffffff;
+  --color-bg-alt: #d7f5ef;
   --color-text-main: #000000;
-  --color-primary: #FF7698;
-  --glitch-gray-5: #4F4F4F;
+  --color-primary: #ff7698;
+  --glitch-gray-5: #4f4f4f;
   --glitch-gray-4: #828282;
-  --glitch-gray-3: #BDBDBD;
+  --glitch-gray-3: #bdbdbd;
 }
 .content {
   max-width: 900px;
@@ -55,7 +55,7 @@ ul.link-list li {
   position: relative;
   aspect-ratio: 1;
   min-height: 200px;
-  background-color: #9480FF;
+  background-color: #9480ff;
   border-radius: 0;
   overflow: hidden;
   margin: 0;
@@ -86,7 +86,8 @@ ul.link-list li a span {
   background-color: rgba(0, 0, 0, 0.75);
   transition: min-height 100ms, padding-top 100ms;
 }
-ul.link-list li a:hover span, ul.link-list li a:focus span {
+ul.link-list li a:hover span,
+ul.link-list li a:focus span {
   min-height: 100%;
   padding-top: 48%;
 }
@@ -101,7 +102,8 @@ ul.link-list li a img {
   object-fit: cover;
   z-index: 1;
 }
-ul.link-list li a:hover img, ul.link-list li a:focus img {
+ul.link-list li a:hover img,
+ul.link-list li a:focus img {
   display: none;
 }
 ul.link-list li a:link,
