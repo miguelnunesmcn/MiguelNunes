@@ -23,6 +23,11 @@
     { "url": "https://mcn-blog.glitch.me",
      "text": "Blog",
      "img": "" 
+    },
+    {
+      "url": "https://twitter.glitch.me",
+      "text": "Site",
+      "img": ""
     }
   ],
   "social": {
