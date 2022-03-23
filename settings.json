@@ -2,18 +2,18 @@
   "metaTitle": "Miguel Nunes",
   "metaDescription": "@MiguelNunesMCN",
   "name": "Miguel Nunes",
-  "theme": "glitch",
+  "theme": "MCN",
   "avatarImage": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/IMG_20220209_161245_776.jpg?v=1646767724736",
   "links": [
     {
       "url": "https://twitter.com/miguelnunesmcn",
       "text": "Twitter",
-      "img": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/Twitter%20Logo.png?v=1647018129978"
+      "img": ""
     },
     {
       "url": "https://instagram.com/miguelnunesmcn",
       "text": "Instagram",
-      "img": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/2048px-Instagram_icon.png?v=1647018470114"
+      "img": ""
     },
     { "url": "https://miguelcamisanunes.hashnode.dev",
      "text": "Blog do Hashnode",
