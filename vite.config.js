@@ -1,6 +1,5 @@
 import { resolve } from "path";
 import { defineConfig } from "vite";
-// Slightly modified from https://github.com/alexlafroscia/vite-plugin-handlebars
 import handlebars from "@glitchdotcom/vite-plugin-handlebars";
 
 // https://vitejs.dev/config/
