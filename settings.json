@@ -6,27 +6,31 @@
   "avatarImage": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/IMG_20220209_161245_776.jpg?v=1646767724736",
   "links": [
     {
-      "url": "https://instagram.com/miguelnunesmcn",
-      "text": "Instagram",
-      "img": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/2048px-Instagram_icon.png?v=1647018470114"
-    },
-    {
       "url": "https://twitter.com/miguelnunesmcn",
       "text": "Twitter",
       "img": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/Twitter%20Logo.png?v=1647018129978"
     },
     {
-      "url": "https://discord.gg/chGC9yDTXN",
-      "text": "Servidor Discord",
-      "img": ""
+      "url": "https://instagram.com/miguelnunesmcn",
+      "text": "Instagram",
+      "img": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/2048px-Instagram_icon.png?v=1647018470114"
+    },
+    { "url": "https://miguelcamisanunes.hashnode.dev",
+     "text": "Blog do Hashnode",
+     "img": "" 
     },
     { "url": "https://mcamisanunes.blogspot.com",
-     "text": "Blog",
+     "text": "Blog do Blogger",
      "img": "" 
     },
     {
       "url": "https://miguelcamisanunes.glitch.me",
       "text": "Site",
+      "img": ""
+    },
+    {
+      "url": "https://discord.gg/chGC9yDTXN",
+      "text": "Servidor Discord",
       "img": ""
     }
   ],
@@ -38,7 +42,7 @@
     "facebook": "",
     "github": "",
     "gitlab": "",
-    "hashnode": "https://hashnode.com/@miguelnunesmcn",
+    "hashnode": "https://miguelcamisanunes.hashnode.dev",
     "instagram": "https://instagram.com/miguelnunesmcn",
     "linkedin": "",
     "medium": "",
@@ -46,7 +50,7 @@
     "pinterest": "",
     "twitter": "https://twitter.com/miguelnunesmcn",
     "youtube": "https://www.youtube.com/channel/UCdhcqZ3-QnMEncaSN_iY3iA",
-    "twitch": "https://twitch.tv/miguelnunesmcn",
+    "twitch": "",
     "tiktok": "",
     "podcast": "https://anchor.fm/miguelnunes",
     "soundcloud": "",
