@@ -16,7 +16,7 @@ self.addEventListener("install", (e) => {
         "/styles/themes/glitch.css",
         "/styles/themes/gallery.css",
         "/styles/themes/menu.css",
-        "/styles/themes/custom-theme.css",
+        "/styles/themes/MCN.css",
       ]);
     })
   );
