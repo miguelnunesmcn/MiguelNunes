@@ -15,13 +15,15 @@
       "text": "Instagram",
       "img": ""
     },
-    { "url": "https://miguelcamisanunes.hashnode.dev",
-     "text": "Blog do Hashnode",
-     "img": "" 
+    {
+      "url": "https://miguelcamisanunes.hashnode.dev",
+      "text": "Blog do Hashnode",
+      "img": ""
     },
-    { "url": "https://mcamisanunes.blogspot.com",
-     "text": "Blog do Blogger",
-     "img": "" 
+    {
+      "url": "https://mcamisanunes.blogspot.com",
+      "text": "Blog do Blogger",
+      "img": ""
     },
     {
       "url": "https://miguelcamisanunes.glitch.me",
