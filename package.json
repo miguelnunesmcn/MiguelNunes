@@ -31,7 +31,7 @@
   "glitch": {
     "projectType": "generated_static"
   },
-  "author": "Miguel Nunes <miguelcamisanunes@gmail.com>",
+  "author": "Miguel Camisa Nunes <miguelcamisanunes@gmail.com>",
   "auto": {
     "plugins": [
       "all-contributors",
