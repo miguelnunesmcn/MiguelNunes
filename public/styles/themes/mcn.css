@@ -41,7 +41,10 @@ ul.link-list li a:focus {
   background: var(--color-primary);
 }
 ul.link-list li a img {
-  display: none;
+  display:none;
+/* border-radius: 0.2rem;
+  width: 3.5rem;
+  overflow: visible; */
 }
 
 .social-profile-icon path {
@@ -54,17 +57,6 @@ h1 {
 p {
   color: var(--theme-color-title);
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
