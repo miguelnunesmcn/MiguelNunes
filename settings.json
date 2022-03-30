@@ -6,6 +6,11 @@
   "avatarImage": "https://cdn.glitch.global/569811b9-679d-4408-84c7-88827fb26734/IMG_20220209_161245_776.jpg?v=1646767724736",
   "links": [
     {
+      "url": "https://MiguelCamisaNunes.glitch.me",
+      "text": "Site",
+      "img": ""
+    },
+    {
       "url": "https://twitter.com/MiguelNunesMCN",
       "text": "Twitter",
       "img": ""
@@ -23,11 +28,6 @@
     {
       "url": "https://MiguelNunes.substack.com",
       "text": "Substack",
-      "img": ""
-    },
-    {
-      "url": "https://MiguelCamisaNunes.glitch.me",
-      "text": "Site",
       "img": ""
     },
     {
@@ -49,7 +49,7 @@
     "linkedin": "",
     "medium": "",
     "patreon": "https://patreon.com/MiguelNunesMCN",
-    "pinterest": "",
+    "pinterest": "a",
     "twitter": "https://twitter.com/MiguelNunesMCN",
     "youtube": "https://www.youtube.com/channel/UCdhcqZ3-QnMEncaSN_iY3iA",
     "twitch": "",
