@@ -10,7 +10,9 @@ A versão 0.0.1 é a [Versão Original](https://glitch-in-bio.glitch.me/) do Gli
 
 ### Versão 0.0.2
 
-A versão 0.0.2 é a segunda versão do Glitch 
+A versão 0.0.2 é a segunda versão do Glitch em que foi lançada no dia 30 de novembro de 2021, eles também criaram um post a explicar a versão 0.0.2 deles.
+
+- [Post](https://blog.glitch.com/post/glitch-in-bio-now-community-improved)
 
 ### Versão 0.0.0
 
