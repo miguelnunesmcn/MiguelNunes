@@ -1,3 +1,9 @@
+/******************************************************************************
+START OF THE MIGUELNUNES.CSS
+
+BY: 2022 © MIGUEL CAMISA NUNES
+******************************************************************************/
+
 /* Fonts */
 @font-face {
   font-family: HK Grotesk;
@@ -22,7 +28,7 @@
   --font-family-list: Menlo, Consolas, Monaco, "Lucida Console", monospace;
 }
 body {
-  background: fixed linear-gradient(0deg, #d7f5ef, #9480ff /*#A770EF, #CF8BF3, #FDB99B*/ /*#9CECFB, #65C7F7, #0052D4*/);
+  background: fixed linear-gradient(0deg, #d7f5ef, #9480ff);
 }
 
 ul.link-list li a {
@@ -41,8 +47,8 @@ ul.link-list li a:focus {
   background: var(--color-primary);
 }
 ul.link-list li a img {
-  display:none;
-/* border-radius: 0.2rem;
+  display: none;
+  /* border-radius: 0.2rem;
   width: 3.5rem;
   overflow: visible; */
 }
@@ -58,5 +64,13 @@ p {
   color: var(--theme-color-title);
 }
 
+.twitter-tweet {
+  margin-left: auto;
+  margin-right: auto;
+}
 
+/******************************************************************************
+END OF THE STYLE.CSS
 
+BY: 2022 © MIGUEL CAMISA NUNES
+******************************************************************************/
