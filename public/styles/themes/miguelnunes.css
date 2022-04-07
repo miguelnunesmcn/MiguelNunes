@@ -69,6 +69,18 @@ p {
   margin-right: auto;
 }
 
+
+.mini-avatar {
+  width: 19px;
+  height: 19px;
+  
+}
+
+.mini-p {
+  color: black;
+  margin: 0 0 0 0;
+  
+}
 /******************************************************************************
 END OF THE STYLE.CSS
 
