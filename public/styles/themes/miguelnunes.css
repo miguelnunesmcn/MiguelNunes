@@ -22,7 +22,7 @@
   --font-family-list: Menlo, Consolas, Monaco, "Lucida Console", monospace;
 }
 body {
-  background: fixed linear-gradient(0deg, #d7f5ef, #9480ff);
+  background: fixed linear-gradient(#ee0979, #ff6a00 /*#9CECFB, #65C7F7, #0052D4*/);
 }
 
 ul.link-list li a {
