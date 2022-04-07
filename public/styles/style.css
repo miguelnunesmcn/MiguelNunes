@@ -59,6 +59,7 @@ body {
   place-items: center;
   margin: 3rem 2rem 0;
 }
+}
 .content {
   display: flex;
   flex-direction: column;
@@ -182,12 +183,17 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
 .avatar-container {
   display: flex;
   justify-content: center;
+  float: left;
 }
 .avatar {
   max-width: var(--avatar-max-width);
   max-height: var(--avatar-max-width);
   margin: 1rem 0 1.5rem;
   border-radius: 50%;
+  display: flex;
+  justify-content: left;
+  float: left;
+  padding: 15px;
 }
 
 /* Link list content specified in settings.json links array */
