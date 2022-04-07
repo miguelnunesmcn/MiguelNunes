@@ -63,14 +63,6 @@ h1 {
 
 
 
-.mini-p {
-
-  color: black;
-}
-
-
-
-
 p {
   color: var(--theme-color-title);
 }
@@ -87,11 +79,6 @@ p {
   
 }
 
-.mini-p {
-  margin: 0 0 1.25rem 0;
-  line-height: 1.5 !important;
-  font-size: clamp(1rem, 0.25rem + 3.3333vw, 2rem);
-}
 /******************************************************************************
 END OF THE STYLE.CSS
 
