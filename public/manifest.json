@@ -2,7 +2,8 @@
   "name": "Miguel Nunes",
   "short_name": "Miguel Nunes",
   "description": "@MiguelNunesMCN",
-  "manifest_version": 3,
+  "author": "Miguel Nunes",
+  "version": 3,
   "icons": [
     {
       "sizes": "800x800",
