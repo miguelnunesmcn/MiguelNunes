@@ -59,9 +59,12 @@ ul.link-list li a img {
 h1 {
   color: var(--theme-color-title);
 }
-
-
-
+h2 {
+  color: var(--theme-color-title);
+}
+h3 {
+  color: var(--theme-color-title);
+}
 
 p {
   color: var(--theme-color-title);
@@ -72,14 +75,10 @@ p {
   margin-right: auto;
 }
 
-
 .mini-avatar {
   width: 20px;
   height: 20px;
-  
 }
-
-
 
 .version {
   font-family: Menlo, Consolas, Monaco, "Lucida Console", monospace;
@@ -98,6 +97,10 @@ p {
   margin-left: auto;
   margin-right: 1rem;
 }
+
+.termos {
+  text-align:left;
+  }
 /******************************************************************************
 END OF THE STYLE.CSS
 
