@@ -2,6 +2,7 @@
   "name": "Miguel Nunes",
   "short_name": "Miguel Nunes",
   "description": "@MiguelNunesMCN",
+  "author": "Miguel Camisa Nunes",
   "version": "1",
   "icons": [
     {
@@ -17,7 +18,7 @@
       "purpose": "maskable"
     }
   ],
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#D7F5EF",
   "theme_color": "#9480FF",
   "start_url": "/"
