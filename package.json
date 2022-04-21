@@ -1,7 +1,7 @@
 {
-  "name": "glitch-in-bio",
-  "version": "0.0.3",
-  "description": "Your very own link-in-bio app.",
+  "name": "MiguelNunes",
+  "version": "8",
+  "description": "@MiguelNunesMCN",
   "main": "index.html",
   "scripts": {
     "start": "vite",
@@ -26,7 +26,7 @@
     "node": "14.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/glitch-in-bio"
+    "url": "https://glitch.com/edit/#!/miguelnunes"
   },
   "glitch": {
     "projectType": "generated_static"
